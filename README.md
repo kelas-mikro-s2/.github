@@ -25,3 +25,5 @@
 ## Penilaian
 1. Rancangan Project dipresentasikan pada **Minggu Ke-15**
 2. Demo Project dilakukan pada **Minggu Ke-17**
+3. Membuat laporan project yang dikumpulkan pada saat demo
+
