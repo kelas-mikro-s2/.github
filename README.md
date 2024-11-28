@@ -17,6 +17,8 @@
    - Implementasi minimal **2 thread** untuk pemrosesan paralel.
 3. **Serial Interface**  
    - Menggunakan komunikasi serial untuk integrasi dengan STM32.
+4. **Publisher Subscriber***
+   - Minimal 1 Publisher dan 1 Subscriber
 
 ### Catatan Penting:
 - Bagian **ROS wajib menggunakan bahasa C/C++**.  
